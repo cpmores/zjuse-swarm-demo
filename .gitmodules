@@ -1,0 +1,9 @@
+[submodule "repo-group1-base"]
+	path = repo-group1-base
+	url = git@github.com:uppi7/repo-group1-base.git
+[submodule "repo-group2-course"]
+	path = repo-group2-course
+	url = git@github.com:uppi7/repo-group2-course.git
+[submodule "repo-infrastructure"]
+	path = repo-infrastructure
+	url = git@github.com:uppi7/repo-infrastructure.git
