@@ -7,3 +7,4 @@
 [submodule "repo-infrastructure"]
 	path = repo-infrastructure
 	url = git@github.com:uppi7/repo-infrastructure.git
+	branch = swarm-dev

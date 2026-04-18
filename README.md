@@ -17,9 +17,7 @@ github 账户需设置公钥，确保正常使用 ssh
 完成后，拉取仓库，切换分支：
 
 ```bash
-git clone --recurse-submodules git@github.com:uppi7/zjuse-demo.git
-git checkout -b swarm-dev
-git pull
+git clone --recurse-submodules -b swarm-dev git@github.com:uppi7/zjuse-demo.git
 ```
 
 ### Build
